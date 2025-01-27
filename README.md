@@ -8,3 +8,8 @@
 
 * Realize o download do html "mapa_pernambuco_populacao.html"
 * Passe o mouse em cima do município para saber sobre o nome do município, população de 2010 e 2022 e área
+* Legenda:
+*   1º Quartil - Amarelo claro
+    2º Quartil - Laranja claro
+    3º Quartil - Laranja médio
+    4º Quartil' - Vermelho
