@@ -2,7 +2,7 @@
 
 ## 📖 Objetivo do Projeto
 
-* O objetivo desse projeto é realizar análise geográfica e descritiva no intuito de gerar visualização dos dados geográficos utilizando a base do censo demográfico do IBGE de 2010 e 2022. A partir de produção de mapas estáticos e interativo, busca-se entender a distribuição espacial das pessoas residentes nos municípios do estado de Pernambuco.
+* O objetivo desse projeto é realizar análise geográfica e descritiva no intuito de gerar visualização dos dados geográficos utilizando a base do censo demográfico do IBGE de 2010 e 2022. A partir de produção de mapas estáticos e interativo, busca-se entender a distribuição espacial ao longo de 12 anos das pessoas residentes nos municípios do estado de Pernambuco.
 
 ## 🗺 Mapa Interativo
 
