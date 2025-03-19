@@ -6,5 +6,5 @@
 
 ## 🗺 Mapa Interativo
 
-* Realize o download do html "mapa_pernambuco_populacao.html"
+* Realize o download do arquivo "mapa_pernambuco_populacao.html" e abra o HTML para acessar no seu navegador
 * Passe o mouse em cima da camada no mapa para saber o nome do município, a população de 2010-2022 e área territorial
