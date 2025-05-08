@@ -1,4 +1,4 @@
-# Mapa Interativo da População do Estado de Pernambuco 
+# População do Estado de Pernambuco 
 
 ## 🔎 Objetivo do Projeto
 
